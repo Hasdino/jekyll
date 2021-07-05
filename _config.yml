@@ -23,8 +23,8 @@ title: Henrique Afonso
 email: henriquea8fonso@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   where i share papers i find interesting from other people etc etc.
-baseurl: "/jekyll"
-url: "https://github.com/Hasdino"
+baseurl: "/jekyll/"
+url: "https://hasdino.github.io"
 twitter_username: Hasden_Afonso
 github_username:  Hasdino
 
